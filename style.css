@@ -31,18 +31,18 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #000;
+    
 }
 button img{
     width: 25px;
 }
 
 .container{
-     position: relative;
+    position: relative;
     background: transparent;
     backdrop-filter: blur(10px);
     width: 400px;
     height: min-content;
-    background-color: #fff;
     border-radius: 12px;
     padding: 28px;
 }
@@ -95,7 +95,7 @@ button img{
 .weather-box{
     margin-block: 20px;
     text-align: center;
-     color: white;
+    color: white;
 }
 .weather-box .temperature{
     font-size: 40px;
