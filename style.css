@@ -38,6 +38,8 @@ button img{
 }
 
 .container{
+        border: 2px solid white;
+
     position: relative;
     background: transparent;
     backdrop-filter: blur(10px);
